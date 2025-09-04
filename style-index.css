@@ -1,0 +1,30 @@
+.container{
+    width:800px;
+    margin:auto;
+    background-color:antiquewhite;
+}
+.header{
+    padding:20px;
+}
+.header . judul{
+    font-size:40px;
+    font-weight: bold;
+}
+.header ul li {
+    display: inline-block;
+    margin-top:20px;
+    margin-right:10px;
+}
+.header a{
+    text-decoration: none;
+    color:rgb(180,71,8)
+}
+.header a:hover{
+    background-color: darkgray;
+    color:white;
+}
+.hero {
+    height:250px;
+    background-image: url(download.jpg);
+    background-size:cover;
+}
