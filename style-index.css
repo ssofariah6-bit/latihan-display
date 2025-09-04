@@ -1,5 +1,5 @@
 .container{
-    width:800px;
+    width:100%;
     margin:auto;
     background-color:antiquewhite;
 }
@@ -8,12 +8,13 @@
 }
 .header . judul{
     font-size:40px;
-    font-weight: bold;
+    font-weight:bold;
 }
 .header ul li {
     display: inline-block;
     margin-top:20px;
     margin-right:10px;
+    font-weight:bold;
 }
 .header a{
     text-decoration: none;
@@ -27,4 +28,16 @@
     height:250px;
     background-image: url(download.jpg);
     background-size:cover;
+}
+.content{
+    padding:15px;
+}
+.isi{
+    padding:15px;
+}
+.footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-size:small;
 }
