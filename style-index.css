@@ -4,7 +4,7 @@
     background-color:antiquewhite;
 }
 .header{
-    padding:20px;
+   padding: 20px;
 }
 .header . judul{
     font-size:40px;
@@ -34,7 +34,9 @@
 }
 .isi{
     padding:15px;
+    background-color:rgb(171, 160, 144);
 }
+
 .footer{
     background-color:black;
     color:white;
